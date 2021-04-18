@@ -12,7 +12,7 @@
    <br><strong>Médico Veterinário</strong>
    <br>
    <br>
-   Atualmente estou focandoas seguintes Tecnologias: 
+   Atualmente estou focando as seguintes Tecnologias: 
    <br>
    -<strong>ReactJS</strong> <br>
    -<strong>Node</strong> <br>

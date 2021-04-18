@@ -5,18 +5,19 @@
 ### Seja bem vindo!
 <p align="left"> 
    <br>
-    My name is <strong>Walberson Dias</strong>
+    Meu nome é <strong>Walberson Dias</strong>
    <br>
-   I'm <strong>FullStack Developer</strong>
-   <br>Médico Veterinário
-   <br>Especialista em Finanças e Mercado de Capitais
+   Sou <strong>Desenvolvedor Front-end</strong>
+   <br><strong>Médico Veterinário</strong>
+   <br><strong>Especialista em Finanças e Mercado de Capitais</strong>
    <br>
    <br>
    Atualmente estou focandoas seguintes Tecnologias: 
    <br>
-   -<strong>React</strong> <br>
+   -<strong>ReactJS</strong> <br>
    -<strong>Node</strong> <br>
    -<strong>Express</strong> <br>
+   -<strong>TypeORM</strong> <br>
   
 
 </p>

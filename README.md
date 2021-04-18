@@ -8,8 +8,8 @@
     Meu nome é <strong>Walberson Dias</strong>
    <br>
    Sou <strong>Desenvolvedor Front-end</strong>
-   <br><strong>Médico Veterinário</strong>
    <br><strong>Especialista em Finanças e Mercado de Capitais</strong>
+   <br><strong>Médico Veterinário</strong>
    <br>
    <br>
    Atualmente estou focandoas seguintes Tecnologias: 

@@ -33,7 +33,7 @@
 
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walberson)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=walberson&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Para contato...
